@@ -1,4 +1,4 @@
-# express
+# bug-report-nuxt-ssr-1
 
 > My pioneering Nuxt.js project
 
